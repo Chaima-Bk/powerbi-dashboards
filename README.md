@@ -8,6 +8,9 @@ A collection of interactive **Power BI dashboards** analyzing sales performance 
 - Top 5 pizzas by revenue
 - Busiest days & peak hours
 - Preferred categories and sizes
+
+## 📂 Files
+- [Download Pizza Sales Dashboard (.pbix)](https://drive.google.com/file/d/1oq-KqyLrZfmwucO19C1tK9V6fI28as2h/view?usp=drive_link)
   
 ## Pizza Sales Analysis
 
