@@ -30,4 +30,20 @@ A collection of interactive **Power BI dashboards** analyzing sales performance 
 - Power BI
 - Data Cleaning (Power Query)
 - DAX for KPIs & measures
-  
+
+---
+
+## 📊 Regional Contracts Sales Insights  
+
+A Power BI dashboard offering **regional insights** into **sales performance, contracts, and agency activities** across several **European countries**.  
+
+**Main insights:**  
+- Revenue by region and customer segment  
+- Monthly progress vs targets  
+- Agencies and contracts overview  
+- Year-over-year revenue variation  
+
+📁 **File:** [`Agency_Contracts.pbix`](files/Agency_Contracts.pbix)  
+🖼️ **Preview:**  
+![Regional Contracts Sales Insights](Agency_Contracts.png)
+
