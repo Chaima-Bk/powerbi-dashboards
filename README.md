@@ -44,6 +44,6 @@ A Power BI dashboard offering **regional insights** into **sales performance, co
 - Year-over-year revenue variation  
 
 📁 **File:** [`Agency_Contracts.pbix`](files/Agency_Contracts.pbix)  
-🖼️ **Preview:**  
+🖼️ **Overview:**  
 ![Regional Contracts Sales Insights](Agency_Contracts.png)
 
